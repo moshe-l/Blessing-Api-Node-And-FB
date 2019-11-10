@@ -1,0 +1,12 @@
+deploy nodejs server via firebase
+https://www.youtube.com/watch?v=LOeioOKUKI8
+
+
+for sending mail via gmail use nodemailer and after visit:
+https://accounts.google.com/b/0/DisplayUnlockCaptcha
+https://www.google.com/settings/security/lesssecureapps
+IMPORTANT : it's dident work form in local - only after deploy
+
+for download firestore json
+https://console.cloud.google.com/iam-admin/serviceaccounts?authuser=0&project=presentation-87078&folder=&organizationId=&supportedpurview=project
+and under action - click create key

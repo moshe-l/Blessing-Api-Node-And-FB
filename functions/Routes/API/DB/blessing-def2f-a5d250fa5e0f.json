@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "blessing-def2f",
+  "private_key_id": "a5d250fa5e0fb32e110f455e47d6b3da4fa02366",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC4/U6pToDfiURe\n+5ziMpIhfvsqti1dAxALBBmLNoC04BmeatWcuuNEVB+TLMg/lEfCKtZAx3LUVwp6\nE0YH1hXm091ikotR5Y+c46nlbo71yfB1LjgVPT4Aqj5M5F2cVqxDuELiKSzMvlud\n0G0F9vams56EHwqwC19MzuivyPzKqAyDZ8BNlu5ahcPk1pVPPhQTTedFoV1hrOvB\nBRRfIeAR6TWhXhQk6LFPBqD0Z6OGQfQfh6pk3nMfhXIu+JOL2B+MQ0KgVON4hthN\nNNyEPIFeuRyMYS2cIFPYUL/1E0YoYwBvHzkuq3wLebA5zkkjKaZokSEmq01j+spM\noSh6iFcVAgMBAAECggEAFhYEHLmnMEkStSZkQitYgBBJi31pqBe0BCSuqgzNTAsP\nc/b8XvR/KsrCZE9t7w1Uje2QW/aUEp77vLxtWYUpY0A7R8gIQzRds5UI1UAgaF7+\nSvdEMeD4dJreyk5fkMlWUtV+gsL4us8lYA+g3JvyMc/zJoIQRBlvfNudM1OTPtyi\nNstDGt93xxxmw4ySwMkwzi1jRkDBsY7A/Oeg5fqyMO84vW2can0R686XKxLQ1Azg\nZiqRRFbu7VUoquumLx0ivfSGlESTeOvIeOPLfJ0bK4VkEmS7pVbo+PJWrtCB1eVP\nLH/3oVYJc3BfUkQmj1DRDEKi6dA0lMXHA/GfSnG7dwKBgQDxhhS/JLy9amfyFJ+C\n0zvBLySRU178hlXgyXU3nC3SS4Xd7+QX4+M3bwm/mwwY4n1/DLvz1iTmKhcYg7Ar\nH7XSoMBlA25RsUxYVGKvCk0jCyO9meObmtGI4KpgaziSQqTAxJ3sMZaeS7GW320d\nmQMWnIe42FI5Vs80uSr+uviPTwKBgQDEE8T2t9vz90JrIVxHXGOjxhqZFBrTCAzv\nhyw15cMNrCrqQ4y83C+N1jifqa4f1kbjZXEer04c+Tk3dcdqLji3guuPs8xKC2/I\nw2aKUN8IdGGK/gvXl+fedJrq8ZzHjDCgri5jxD7NDCrAObIJpSnFwy45wBZam6Tw\n+28e/5K6WwKBgBYjOw2WGXKnKSXoPAKqx+RaJNjpMmClE4QKEyNovk5zO67vCRIj\ngjUXiWY1mPNC90vI6AVekH1ESF+n2mLpginvMBNSMC9ut9e0zGLM5+sZX0pGq7Uc\niK4qIZO64DGPyDgfDXaTyQFzYLC6g+7dkonlCQ+pTEgTK+TiQA2fJ59DAoGATQvX\noXqtmzfViXMaZ5AONxRo7y3PPI01SAm9fZBDDORSGKtiafO7W+iJZ3OtUCVKxZ/e\ny0fnUcs8iGZnbXmsH6/6EAV+iLnluuXNLRyKBzB0A8G/tX+jRO5c0WUPTfnwQbMv\n11QNuVTGl7IUG2Yi++quB1NLdV8jeO3TxEJ4zXECgYBkMbnjyyGArPtruyGBKrpo\n6vDo1HUSmWYTFTLzUd5drI6NhOZme4Ub2yb6jVATVBPk07jFX4S7XHuz/EVh9Ds7\nclkQVjSqFtx2VOgR59mmkuip51D09iXU1/aGOeXMbS/wY6z+xQH+M+EQCeDzhpqN\nDgBrt33avWD2DAWoGKx9sw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "blessing-def2f@appspot.gserviceaccount.com",
+  "client_id": "112400690625816773664",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/blessing-def2f%40appspot.gserviceaccount.com"
+}
