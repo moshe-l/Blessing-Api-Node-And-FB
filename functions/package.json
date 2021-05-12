@@ -21,7 +21,7 @@
     "express-session": "^1.16.2",
     "firebase-admin": "^8.0.0",
     "firebase-functions": "^3.0.2",
-    "nodemailer": "^2.7.2",
+    "nodemailer": "^6.4.16",
     "nodemailer-smtp-transport": "^2.7.4",
     "uuid": "^3.3.2"
   },
